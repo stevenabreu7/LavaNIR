@@ -1,0 +1,6 @@
+[submodule "lava-dl"]
+	path = lava-dl
+	url = https://github.com/lava-nc/lava-dl.git
+[submodule "NIR"]
+	path = NIR
+	url = https://github.com/neuromorphs/NIR.git
